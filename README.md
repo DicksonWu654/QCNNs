@@ -23,7 +23,7 @@ Since it acts so much like a normal Convolutional layer, you could literally use
 
 ### A Longer Explanation:
 
-For a longer explanation - check out my blog about QCNNs! I go super into the details: [Article!](https://dickson-wu.medium.com/quantum-eyes-1ae995e78a40)
+For a longer explanation - check out my blog about QCNNs! I go super into the details: [Article!](https://dickson-wu.medium.com/quantum-eyes-1ae995e78a40). Also check out my [Video](https://youtu.be/X0om4Aj6RBs)
 
 ## Acknowledgements
 
