@@ -30,7 +30,7 @@ For a longer explanation - check out my blog about QCNNs! I go super into the de
 * [Excellent Paper of an overview of QCNNs](https://arxiv.org/abs/2009.09423)
 * [Excellent Paper of an deep dive of QCNNs](https://arxiv.org/abs/1904.04767)
 * [Code Help](https://github.com/Menborong/Simple-QCNN/blob/master/Simple_QCNN_MNIST.ipynb)
-* [Code Help](ttps://www.kaggle.com/lys620/opencv-eda-and-classification)
+* [Code Help](https://www.kaggle.com/lys620/opencv-eda-and-classification)
 * [Dataset](https://www.kaggle.com/c/plant-pathology-2021-fgvc8/overview)
 * [Other Cool Reso](https://www.tensorflow.org/quantum/tutorials/qcnn#11_assemble_circuits_in_a_tensorflow_graph)
 * [Other Cool Reso](https://arxiv.org/pdf/2102.06535v1.pdf)
